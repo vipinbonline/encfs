@@ -26,3 +26,4 @@ download_prerequired(){
  tools_download "https://github.com/vipinbonline/encfs/blob/vipinbonline-patch-1/encfs.desktop"
 }
 
+download_prerequired()
