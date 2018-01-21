@@ -5,7 +5,7 @@ set -e
 action=$1
 mode=$2
 
-stable="vipinbonline-patch-1"
+stable="master"
 
 trap cleanup EXIT
 
